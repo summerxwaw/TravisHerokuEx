@@ -1,0 +1,9 @@
+sudo: false
+
+language: java
+java:
+  - 1.8
+
+branches:
+  only:
+    - master
