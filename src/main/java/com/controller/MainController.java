@@ -20,7 +20,11 @@ public class MainController {
         productionDAO.insertProduction("router1", 100);
         productionDAO.insertProduction("router2", 23);
         List<Production> list = productionDAO.listProduction();
+<<<<<<< HEAD
         model.addAttribute("productions", "sfghjgff");
+=======
+        model.addAttribute("productions", "asdasdasdasdsada");
+>>>>>>> fe498fedd568cb26f82b3421918912e7058ce273
         return "index";
     }
 }
