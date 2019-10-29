@@ -9,6 +9,6 @@ branches:
     - master
 deploy:
   provider: heroku
-  app: travisex
+  app: traviexample
   api_key:
     secure: 828d3754-6c8a-40f4-b93d-48438849286a
