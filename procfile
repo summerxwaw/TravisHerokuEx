@@ -1,1 +1,1 @@
-web: springmvcexample_war index.jsp
+web: java index.jsp
