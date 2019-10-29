@@ -1,1 +1,1 @@
-web: java pages/index.jsp
+web:java index.jsp
