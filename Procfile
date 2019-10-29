@@ -1,1 +1,1 @@
-web: java $JAVA_OPTS -cp target/SpringMVCjdbcTransaction/WEB-INF/pages/index.jsp
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* springmvcexample
