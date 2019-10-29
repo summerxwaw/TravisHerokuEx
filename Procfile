@@ -1,1 +1,1 @@
-web: java webapp/WEB-INF/pages/index.jsp
+web: java index.jsp
