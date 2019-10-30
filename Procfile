@@ -1,1 +1,1 @@
-web: java -jar target/SpringMVCJdbcTransaction.jar
+web: sh target/bin/webapp
