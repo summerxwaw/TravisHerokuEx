@@ -1,1 +1,1 @@
-web: sh target/target/SpringMVCJdbcTransaction/META-INF
+web: sh target/target/SpringMVCJdbcTransaction
